@@ -1,2 +1,2 @@
 Version1 : hello from main
-This is second line from branch master
+Version 2 : added to remove the conflict
